@@ -5,8 +5,10 @@ __pycache__/
 *.so
 .Python
 venv/
+.venv/
 ENV/
 env/
+.env/
 build/
 develop-eggs/
 dist/
@@ -35,3 +37,7 @@ MANIFEST
 
 # Logs
 *.log
+
+__pycache__/
+*.pyc
+*.pyo
